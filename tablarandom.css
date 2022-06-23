@@ -1,0 +1,46 @@
+#titulopro{
+	font-family: courier new;
+	font-size:30px;
+	color: #ffffff;
+	background-image: url(https://es.calcuworld.com/wp-content/uploads/sites/2/2018/04/galaxias-que-se-conocen.jpg);
+	border: dashed;
+	border-color: #ff0000;
+	border-width: 15px;
+	border-radius: 4px;
+	text-align: center;
+	font-weight: bold;
+	
+
+}
+#tablita{
+	border-collapse:all;
+	font-family: Verdana;
+	font-weight: bold;
+	border: outset;
+	border-color: #800080;
+	border-width: 15px;
+	border-radius: 4px;
+	background-color:  #add8e6; 
+	text-align: center;	
+}
+#indicar{
+	font-family: Arial; 
+	font-size: 15px;
+	text-align: center;
+	color: #ff0000;
+	font-weight: bold;
+	
+
+}
+#repro{
+	font-family: Comic Sans MS;
+	font-size: 39px;
+	text-align: center;
+	border-radius: 16px;
+	border-style: dashed;
+	border-color: #000000;
+	background-color: #7FFFD4;
+}
+
+li {font-family: Arial; text-align: justify;}
+table{border-collapse: collapse;}
